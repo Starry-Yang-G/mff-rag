@@ -1,1 +1,1 @@
-The code, data, and examples related to the paper will be made publicly available **after the review comments are received**..
+We will release the code, data, and examples related to the paper after the paper is accepted.
